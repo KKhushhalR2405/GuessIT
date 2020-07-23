@@ -13,7 +13,7 @@ Fruit guessing game using Python
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Module used : Speech_recognition
+**Module used** : Speech_recognition
 
 To download :
 ```
