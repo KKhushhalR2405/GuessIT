@@ -2,7 +2,10 @@
 Fruit guessing game using Python
 
 Steps to run the program
+
 1)Clone the repo.
+
 2)Run main.py
+
 3)Make sure your microphone is working.
 
